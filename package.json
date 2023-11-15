@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ai": "^2.2.22",
+    "dotenv": "^16.3.1",
+    "next": "14.0.1",
+    "openai": "^4.17.3",
+    "openai-edge": "^1.2.2",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.1"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "typescript": "^5",
